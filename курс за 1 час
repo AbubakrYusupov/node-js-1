@@ -1,0 +1,10 @@
+terminalga npm init dip yozse package.json ciqip keladi 
+package.json har xil kutubxona yoki plaginlarni proyektimizga ulash uchun kerak boladi
+yana package.json faylida oldin ustanovka qilingan kodlani spiskasi saqlanip qoladi
+bitta programistga qivotkan proyektimizi tawamoqci bose node modelssi ocipriptawap tawase kegin u programist npm i dip yozsa 
+hamma oldin ustanovka qigan kodlarimizi spiskasi ciqip keladi
+
+
+Modula
+modul node js faylani import export qilishda yordam beradi
+const chalk = require('chalk') //здесь создали переменное и импортировали chalk
